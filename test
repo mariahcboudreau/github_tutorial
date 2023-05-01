@@ -3,8 +3,5 @@ Testing adding a file
 Changing the file to use the -am function
 
 
-<<<<<<< HEAD
-Conflict - local
-=======
 Conflict - remote
->>>>>>> 031db5fa2a3d04f9410d62c80da5c58487a6fe8a
+
